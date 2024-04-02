@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">🔭 My work: [projects](https://github.com/oriyavilla/projects)</p>
+🔭 My work: [projects](https://github.com/oriyavilla/projects/)
 
 ###
 
