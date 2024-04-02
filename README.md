@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="![1591921129172](https://github.com/oriyavilla/oriyavilla/assets/147210773/56bc318e-d8a3-44e1-a1ad-6129215ecbfe)"  />
+  "![1591921129172](https://github.com/oriyavilla/oriyavilla/assets/147210773/56bc318e-d8a3-44e1-a1ad-6129215ecbfe)"  />
 </div>
 
 
