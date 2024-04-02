@@ -23,7 +23,7 @@
 
 ###
 
-🔭 My work: [projects](https://github.com/oriyavilla/projects/)
+🔭 My work can be viewed here: [projects](https://github.com/oriyavilla/projects/)
 
 ###
 
